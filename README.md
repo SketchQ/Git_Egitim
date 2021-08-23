@@ -1,6 +1,8 @@
 # Git Eğitimleri
 
-Git eğitimlerinde aldığım notlar kısacası deneme reposu
+Git eğitimlerinde (kaynak:  Progit ve Patika) aldığım notlar.
 
-## Progit ve Patika kaynaklarından
+  kısacası deneme reposu
+
+
 
