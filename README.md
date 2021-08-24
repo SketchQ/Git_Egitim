@@ -1,8 +1,8 @@
-# Git Eğitimleri
+# Git Eğitim klasörü
 
-Git eğitimlerinde (kaynak:  Progit ve Patika) aldığım notlar.
+Git eğitim notları
 
-  kısacası deneme reposu
+
 
 
 
