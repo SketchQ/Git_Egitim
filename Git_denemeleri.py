@@ -5,4 +5,3 @@
 ## Bu satırlar yeni bir branch içerisinde deneme amaçlı açılmıştır
 
 ## Branch adı : gitdeneme
-
